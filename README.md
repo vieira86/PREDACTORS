@@ -44,7 +44,8 @@ Builds the app for production to the `build` folder.
 ⚠️ RENDER: 
 Root directory: backend
 Build Command: pip install -r requirements.txt
-Start Command: o que eu coloco?
+Start Command: uvicorn main:app --reload --host 0.0.0.0 --port 8000
+
 
 
 ---
