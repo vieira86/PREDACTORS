@@ -40,6 +40,13 @@ Builds the app for production to the `build` folder.
 ### `npm run eject`
 ⚠️ **Note:** this is a one-way operation. Once you `eject`, you can't go back!
 
+### `BACKEND`
+⚠️ RENDER: 
+Root directory: backend
+Build Command: pip install -r requirements.txt
+Start Command: o que eu coloco?
+
+
 ---
 
 ## 👥 Authors
